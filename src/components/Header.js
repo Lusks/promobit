@@ -8,7 +8,7 @@ export default function Header (props) {
             </div>
             <p id="filterText">FILTRE POR:</p>
             <div id="filters">
-                <row class="rowFilters">
+                <row className="rowFilters">
                     <Button title="Ação" />
                     <Button title="Aventura" />
                     <Button title="Animação" />
@@ -20,7 +20,7 @@ export default function Header (props) {
                     <Button title="Fantasia" />
                     <Button title="História" />
                 </row>
-                <row class="rowFilters">
+                <row className="rowFilters">
                     <Button title="Terror" />
                     <Button title="Música" />
                     <Button title="Mistério" />

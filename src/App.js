@@ -1,7 +1,7 @@
 import './styles/App.css';
-import Navbar from './components/Navbar'
-import Header from './components/Header'
-import Movies from './components/Movies'
+import Navbar from './components/Navbar';
+import Header from './components/Header';
+import Movies from './components/Movies';
 
 function App() {
   return (
